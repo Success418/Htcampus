@@ -1,0 +1,136 @@
+"Onboarding.Welcome.Title"="Willkommen zur HTW";
+"Onboarding.Welcome.ScheduleDescription"="Hab immer den Überblick, wann Du welche Vorlesung, Übung etc. hast.";
+"Onboarding.Welcome.CanteenDescription"="Was gibt's heute zu Mittag? 🍏🍕🍜";
+"Onboarding.Welcome.GradesDescription"="Wer hat denn da eine 1 bekommen? Bestimmt Du!";
+
+"Onboarding.Studygroup.title"="Studiengruppe";
+"Onboarding.Studygroup.body"="Wähle hier Dein Immatrikulationsjahr, Deinen Studiengang und Deine Studiengruppe aus.\nDiese Information ist erforderlich, um Dir Deinen Stundenplan anzeigen zu können.";
+"Onboarding.Studygroup.notnow"="Später";
+
+"Onboarding.Studygroup.year"="Jahr";
+"Onboarding.Studygroup.major"="Fach";
+"Onboarding.Studygroup.group"="Gruppe";
+
+"Onboarding.Studygroup.degree.bachelor"="Bachelor";
+"Onboarding.Studygroup.degree.diplom"="Diplom";
+"Onboarding.Studygroup.degree.master"="Master";
+
+"Onboarding.UnixLogin.title"="Anmelden";
+"Onboarding.UnixLogin.body"="Damit wir Dir Deine Noten anzeigen können, musst Du Dich mit Deinen Zugangsdaten anmelden.";
+"Onboarding.UnixLogin.notnow"="Später";
+"Onboarding.UnixLogin.sPlaceholder"="S-Nummer";
+"Onboarding.UnixLogin.passwordPlaceholder"="Passwort";
+
+"Schedule.title"="Stundenplan";
+"Schedule.today"="Heute";
+"Schedule.Style.week"="Woche";
+"Schedule.Style.list"="Liste";
+"Schedule.Cell.time" = "%02d:%02d";
+"Schedule.noRoom"="Kein Raum";
+"Schedule.freeDay"="Genieß Deinen freien Tag! 🎉";
+"Schedule.holiday"="Semesterferien 🙌🚀";
+"Schedule.noResults.title"="Kein Plan...";
+"Schedule.noResults.message"="Ich kann keine Stunden für Dich finden.\nIst Deine Studiengruppe korrekt?";
+"Schedule.NextLecture.unavailable"="Keine Stunden mehr für heute! 🚲🌴";
+"Schedule.Weeks.once"="Einmal";
+"Schedule.Weeks.all"="Jede Woche";
+"Schedule.Weeks.odd"="Ungerade Wochen";
+"Schedule.Weeks.even"="Gerade Wochen";
+
+"Schedule.Settings.Hide.title"="Stunden verwalten";
+"Schedule.Settings.Hide.action"="Diese Stunde ausblenden";
+"Schedule.Settings.Hide.otherAction"="Stunde wieder einblenden";
+
+"Schedule.Settings.Cell.subtitle"="%@: %@–%@";
+
+"Schedule.LectureType.lecture"="Vorlesung";
+"Schedule.LectureType.practical"="Praktikum";
+"Schedule.LectureType.exercise"="Übung";
+
+"Canteen.title"="Mensa";
+"Canteen.pluralTitle"="Mensen";
+"Canteen.noCounter"="Ausgabeort nicht bekannt";
+"Canteen.noResults.title"="Kein Essen";
+"Canteen.noResults.message"="Heute gibt's nichts zu essen :-/";
+"Canteen.Meal.more"="Mehr Informationen";
+
+"Exams.title"="Prüfungen";
+"Exams.noResults.title"="Keine Prüfungen";
+"Exams.noResults.message"="Ich kann leider keine Prüfungen für Dich finden.\nSind Deine Zugangsdaten korrekt?";
+
+"Exams.Cell.time"="%@ – %@";
+
+"Exams.examiner"="Prüfer: %@";
+"Exams.branch"="Zweig: %@";
+
+"Exams.ExamType.written"="Schriftlich";
+"Exams.ExamType.oral"="Mündlich";
+"Exams.ExamType.apl"="APL";
+
+"Settings.title"="Einstellungen";
+
+"Settings.items.setSchedule.title"="Studiengruppe ändern";
+"Settings.items.setSchedule.subtitle"="%@/%@/%@";
+"Settings.items.setGrades.title"="Zugangsdaten ändern";
+"Settings.items.setGrades.subtitle"="%@";
+"Settings.items.deleteAll"="Gespeicherte Daten löschen";
+"Settings.items.deleteAllConfirmationText"="Möchtest Du wirklich alle in der HTW Dresden App gespeicherten Daten löschen?";
+"Settings.sections.authentication"="Deine Angaben";
+"Settings.sections.openSource"="Open Source Lizenzen";
+"Settings.sections.weAreOpenSource"="Wir sind Open Source!";
+"Settings.sections.contact"="Kontakt";
+"Settings.items.mail.mail"="app@htw-dresden.de";
+"Settings.items.mail.title"="Mail an Entwickler schreiben";
+"Settings.items.mail.fallback.title"="Mailadresse kopiert!";
+"Settings.items.mail.fallback.message"="Es sieht so aus, als würdest du die Mail App von Apple nicht verwenden. Deshalb haben wir die Kontaktadresse für dich kopiert.";
+"Settings.items.github"="HTW iOS auf GitHub";
+"Settings.sections.deleteAll"="Zurücksetzen";
+"Settings.credits"="Entwickelt in Dresden ❤️";
+"Settings.items.legal.title"="Impressum";
+
+"CalendarWeek.long"="Kalenderwoche";
+"CalendarWeek.short"="KW";
+
+"monday"="Montag";
+"tuesday"="Dienstag";
+"wednesday"="Mittwoch";
+"thursday"="Donnerstag";
+"friday"="Freitag";
+"saturday"="Samstag";
+"sunday"="Sonntag";
+
+"monday_short"="Mo";
+"tuesday_short"="Di";
+"wednesday_short"="Mi";
+"thursday_short"="Do";
+"friday_short"="Fr";
+"saturday_short"="Sa";
+"sunday_short"="So";
+
+"summerSemester"="Sommersemester";
+"winterSemester"="Wintersemester";
+
+"ok"="Okay";
+"close"="Schließen";
+"cancel"="Abbrechen";
+"nextStep"="Weiter";
+"letsgo"="Los geht's!";
+"attention"="Achtung ⚠️";
+"yes"="Ja";
+"loading"="Laden…";
+
+"Grades.title"="Noten";
+"Grades.totalCredits"="%d Credits insgesamt";
+"Grades.average" = "(∅ %.2f)";
+"Grades.detail.mark" = "%.1f";
+"Grades.detail.credits" = "%.0f Credits";
+"Grades.detail.tries" = "%d.Versuch";
+"Grades.detail.noDate" = "Kein Datum";
+"Grades.detail.noNote" = "Keine Bemerkungen";
+"Grades.detail.note" = "Bemerkung: %@";
+"Grades.status.signedUp" = "Angemeldet";
+"Grades.status.passed" = "Bestanden";
+"Grades.status.failed" = "Durchgefallen";
+"Grades.status.ultimatelyFailed" = "letztmalig durchgefallen";
+"Grades.noResults.title"="Keine Noten";
+"Grades.noResults.message"="Ich kann leider keine Noten von Dir finden.\nSind Deine Zugangsdaten korrekt?";
